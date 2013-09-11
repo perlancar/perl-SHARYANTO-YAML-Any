@@ -1,6 +1,6 @@
 Revision history for SHARYANTO-YAML-Any
 
-0.56    2013-09-11 (SHARYANTO) (not yet released)
+0.56    2013-09-11 (SHARYANTO)
 
         - No functional changes. Split from SHARYANTO-Utils because I seldom use
           this module now (will deprecate it later) plus it does not work well
